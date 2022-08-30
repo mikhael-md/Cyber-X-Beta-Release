@@ -36,15 +36,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['917034685001'] //ur owner number
+global.vcardowner = ['48699520419'] //ur owner number
 global.ownername = "ꪶᴄ͢ʜʀᷧɪᷟsᴛͥʏ ͢ꫂsᴇʀ⋆🜲" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['917034685001']
-global.ownertag = '917034685001' //ur tag number
+global.owner = ['48699520419']
+global.ownertag = '48699520419' //ur tag number
 global.botname = 'CYBER-X TEST EDITION' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
@@ -54,10 +54,10 @@ global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🚀" //ur theme emoji
 global.packname = "ꪶᴄ͢ʜʀᷧɪᷟsᴛͥʏ ͢ꫂsᴇʀ⋆🜲" //ur sticker watermark packname
 global.author = "𝒉𝒆𝒚 𝒃𝒂𝒃𝒆🤤👅" //ur sticker watermark author
-global.aliveimg ="https://telegra.ph/file/c4ce9afb236972ffb2126.jpg"
-global.allmenuimg ="https://telegra.ph/file/c4ce9afb236972ffb2126.jpg"
-global.welcomeimg= "https://telegra.ph/file/c4ce9afb236972ffb2126.jpg"
-global.gbyeimg = "https://telegra.ph/file/c4ce9afb236972ffb2126.jpg"
+global.aliveimg ="https://i.imgur.com/O28SaPp.jpeg"
+global.allmenuimg ="https://i.imgur.com/O28SaPp.jpeg"
+global.welcomeimg= "https://i.imgur.com/O28SaPp.jpeg"
+global.gbyeimg = "https://i.imgur.com/O28SaPp.jpeg"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -67,7 +67,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['917034685001'] //ADD YOU NUMBER
+global.premium = ['48699520419'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
